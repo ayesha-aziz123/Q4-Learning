@@ -81,7 +81,6 @@ def handle_chat(request: ChatRequest):
             session_id=str(uuid4())
         )
     )
-
 # ---------------------------
 # 📜 GET /history/{user_id} — User's full chat history
 # ---------------------------
