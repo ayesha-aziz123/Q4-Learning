@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 FastAPI Starter Project
 
 A minimal FastAPI setup to kickstart your next Python web API project. This boilerplate is clean, async-ready, and easy to extend.
