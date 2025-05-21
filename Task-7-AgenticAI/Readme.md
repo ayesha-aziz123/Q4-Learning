@@ -1,5 +1,4 @@
 # 🧠 Task 07: Mastering OpenAI Agents SDK  
-**Code Folder:** `01_ai_agents_first`  
 Welcome to **Task 07** of **Panaversity’s Learn Agentic AI** course!  
 In this task, we explore the **OpenAI Agents SDK**, breaking down core concepts like the `Agent` and `Runner` classes.
 
